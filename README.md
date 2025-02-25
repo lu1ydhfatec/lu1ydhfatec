@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 📚 I study systems analysis and development at Fatec in Indaituba
-## 🔭 I’m currently working on toyota in Sorocaba
+## 🔨 I’m currently working on toyota in Sorocaba
 ## 🏀 I like video games and basketball!
 <!--
 **lu1ydhfatec/lu1ydhfatec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
